@@ -1,0 +1,462 @@
+newmtl BarChair:phongE2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd base.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Bookcase:Bookcase1:Bookcase1:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase2:Bookcase1:Bookcase1:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase4:Bookcase1:Bookcase3:Bookcase1:Bookcase2:Bookcase1:Bookcase1:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase15:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase16:Bookcase1:Bookcase15:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase17:Bookcase1:Bookcase16:Bookcase1:Bookcase15:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase18:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase18:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase1:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase2:Bookcase1:Bookcase1:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase3:Bookcase1:Bookcase2:Bookcase1:Bookcase1:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase4:Bookcase1:Bookcase3:Bookcase1:Bookcase2:Bookcase1:Bookcase1:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase15:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase16:Bookcase1:Bookcase15:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase17:Bookcase1:Bookcase16:Bookcase1:Bookcase15:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase18:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase18:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase20:Bookcase1:Bookcase17:Bookcase1:Bookcase16:Bookcase1:Bookcase15:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase2:Bookcase1:Bookcase2:Bookcase1:Bookcase1:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase3:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase2:Bookcase1:Bookcase2:Bookcase1:Bookcase1:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase4:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase2:Bookcase1:Bookcase2:Bookcase1:Bookcase1:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase5:Bookcase1:Bookcase2:Bookcase1:Bookcase1:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:pasted__pasted__pasted__pasted__pasted__blinn1SG
+illum 4
+Kd 0.41 0.63 0.98
+Ka 0.00 0.00 0.00
+Tf 0.24 0.24 0.24
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:phongE4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Bookcase:Bookcase1:Bookcase20:Bookcase1:Bookcase17:Bookcase1:Bookcase16:Bookcase1:Bookcase15:Bookcase1:Bookcase13:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble.jpg
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Bookcase1:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble3.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Bookcase1:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble3.png
+Ni 1.00
+Ks 0.58 0.58 0.58
+newmtl Bookcase4:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase6:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble3.png
+Ni 1.00
+Ks 0.58 0.58 0.58
+newmtl Bookcase6:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble3.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Bookcase7:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase1:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble3.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Bookcase8:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase6:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble3.png
+Ni 1.00
+Ks 0.58 0.58 0.58
+newmtl Bookcase9:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase6:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:Bookcase:Bookcase1:Bookcase19:Bookcase1:Bookcase18:Bookcase1:Bookcase13:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueble3.png
+Ni 1.00
+Ks 0.58 0.58 0.58
+newmtl blinn2SG
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.00 0.00 0.00
+Tf 0.92 0.92 0.92
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd images.jpg
+Ni 1.00
+newmtl lambert15SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd logo.png
+Ni 1.00
+newmtl lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredamarilla.jpg
+Ni 1.00
+newmtl lambert24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd images.jpg
+Ni 1.00
+newmtl lambert26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texbear.png
+Ni 1.00
+newmtl lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd basketballball_bball_Mat_BaseColor.jpg
+Ni 1.00
+newmtl lambert29SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TCom_Wood_ParquetHerringbone9_header.jpg
+Ni 1.00
+newmtl lambert30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techoablanco3.jpg
+Ni 1.00
+newmtl pasted__blinn2SG
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.00 0.00 0.00
+Tf 0.92 0.92 0.92
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__lambert12SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd images.jpg
+Ni 1.00
+newmtl pasted__lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd images.jpg
+Ni 1.00
+newmtl pasted__lambert25SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bordespared.jpg
+Ni 1.00
+newmtl pasted__pasted__blinn1SG
+illum 4
+Kd 0.41 0.63 0.98
+Ka 0.00 0.00 0.00
+Tf 0.24 0.24 0.24
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__pasted__lambert25SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bordespared.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert25SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bordespared.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert25SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bordespared.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__blinn1SG1
+illum 4
+Kd 0.41 0.63 0.98
+Ka 0.00 0.00 0.00
+Tf 0.24 0.24 0.24
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__pasted__pasted__pasted__lambert25SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bordespared.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert25SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bordespared.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__blinn1SG1
+illum 4
+Kd 0.41 0.63 0.98
+Ka 0.00 0.00 0.00
+Tf 0.24 0.24 0.24
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__pasted__pasted__pasted__pasted__lambert25SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bordespared.jpg
+Ni 1.00
+newmtl phongE3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Tx_Leather_Diff.jpg
+Ni 1.00

@@ -1,0 +1,31 @@
+newmtl FBXASC04837_VraySG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.95 0.95 0.95
+Ns 1022.00
+newmtl dog:wire_028089177
+illum 4
+Kd 0.11 0.35 0.69
+Ka 0.11 0.35 0.69
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dog_(3).jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
